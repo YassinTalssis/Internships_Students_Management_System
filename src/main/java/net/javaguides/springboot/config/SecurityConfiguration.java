@@ -16,7 +16,7 @@ import net.javaguides.springboot.service.UserService;
 @Configuration
 @EnableWebSecurity
 public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
-
+	//talssis
 	@Autowired
 	private UserService userService;
 	
